@@ -1,5 +1,5 @@
-#scissors paper stone game
+<h1>scissors paper stone game</h1>
 This is the game logic for scissors paper stone.
 
-#Languages Used
+<h1>Languages Used</h1>
 Javascript
